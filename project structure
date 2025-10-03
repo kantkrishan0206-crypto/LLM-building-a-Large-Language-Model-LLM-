@@ -1,8 +1,7 @@
 RLHF-Lab/
 ├── README.md
-├── notebooks/
-├── data/
-├── src/
+├── VS CODE/
+├── SRC 
 │   ├── part1_core_transformer/
 │   │   ├── README.md  # Key concepts
 │   │   ├── transformer.py
