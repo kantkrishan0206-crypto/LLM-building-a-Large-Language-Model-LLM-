@@ -1,0 +1,39 @@
+RLHF-Lab/
+├── README.md
+├── notebooks/
+├── data/
+├── src/
+│   ├── part1_core_transformer/
+│   │   ├── README.md  # Key concepts
+│   │   ├── transformer.py
+│   │   └── attention_utils.py
+│   ├── part2_training_tiny_llm/
+│   │   ├── README.md
+│   │   ├── tokenizer.py
+│   │   └── training_loop.py
+│   ├── part3_modern_architecture/
+│   │   ├── README.md
+│   │   ├── rmsnorm.py
+│   │   ├── rope.py
+│   │   └── swiglu.py
+│   ├── part4_scaling_up/
+│   │   ├── README.md
+│   │   ├── bpe_tokenizer.py
+│   │   ├── gradient_accum.py
+│   │   └── mixed_precision.py
+│   ├── part5_moe/
+│   │   ├── README.md
+│   │   └── moe_layer.py
+│   ├── part6_sft/
+│   │   ├── README.md
+│   │   └── sft_training.py
+│   ├── part7_reward_modeling/
+│   │   ├── README.md
+│   │   └── reward_model.py
+│   ├── part8_ppo/
+│   │   ├── README.md
+│   │   └── ppo_training.py
+│   └── part9_grpo/
+│       ├── README.md
+│       └── grpo_training.py
+└── requirements.txt
