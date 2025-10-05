@@ -5,9 +5,9 @@ is a comprehensive, educational project dedicated to building a Large Language M
 <img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/182c9698-28da-412b-8826-dc531c97fb1f" />
 
 
-# LLM from Scratch — Hands-On Curriculum (PyTorch)
+# LLM (PyTorch)
 
-A hands-on curriculum for building and training large language models (LLMs) from scratch using PyTorch.
+ building and training large language models (LLMs) from scratch using PyTorch.
 
 ## Setup
 
